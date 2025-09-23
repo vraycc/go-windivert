@@ -17,6 +17,7 @@ TODO:
 ```shell
 go get github.com/jamesits/go-windivert
 ```
+установить msys с https://www.msys2.org/ и в его консольке запустить "pacman -S mingw-w64-x86_64-gcc make"
 
 Examples using the high-level interface (channel based):
 - [Sniffing only](cmd/pktdump/main.go)
@@ -24,3 +25,4 @@ Examples using the high-level interface (channel based):
 - [Packet content parsing](cmd/pktcount/main.go)
 
 All [Low-level interfaces](pkg/ffi/library.go) and [simple wrappers](pkg/ffi/wrapper.go) are also available for more than average needs.
+
