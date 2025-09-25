@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/jamesits/go-windivert/pkg/diverter"
-	"github.com/jamesits/go-windivert/pkg/ffi"
 	"github.com/jamesits/goinvoke/utils"
+	"github.com/vraycc/go-windivert/pkg/diverter"
+	"github.com/vraycc/go-windivert/pkg/ffi"
 	"log"
 	"path/filepath"
 	"strings"

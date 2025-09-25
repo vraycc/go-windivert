@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jamesits/go-windivert/pkg/ffi"
+	"github.com/vraycc/go-windivert/pkg/ffi"
 	"log"
 	"os"
 )

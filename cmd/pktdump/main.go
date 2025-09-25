@@ -6,8 +6,8 @@ package main
 
 import (
 	"encoding/binary"
-	"github.com/jamesits/go-windivert/pkg/diverter"
-	"github.com/jamesits/goinvoke/utils"
+	"github.com/vraycc/go-windivert/pkg/diverter"
+	"github.com/vraycc/goinvoke/utils"
 	"log"
 	"os"
 	"os/signal"
