@@ -2,7 +2,7 @@ package diverter
 
 import (
 	"errors"
-	"github.com/jamesits/go-windivert/pkg/ffi"
+	"github.com/vraycc/go-windivert/pkg/ffi"
 	"golang.org/x/sys/windows"
 	"sync"
 )

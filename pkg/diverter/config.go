@@ -1,7 +1,7 @@
 package diverter
 
 import (
-	ffi2 "github.com/jamesits/go-windivert/pkg/ffi"
+	ffi2 "github.com/vraycc/go-windivert/pkg/ffi"
 )
 
 const DefaultDLLPath = "WinDivert.dll"
